@@ -1,0 +1,1 @@
+FROM ming0821/fe-env:latest
